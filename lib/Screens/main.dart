@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:talabat/Screens/Cart.dart';
 import 'package:talabat/Screens/Drawer.dart';
-import 'file:///C:/Users/wael_/OneDrive/Desktop/Univ/talabat/lib/Screens/Login.dart';
-import 'file:///C:/Users/wael_/OneDrive/Desktop/Univ/talabat/lib/Screens/intro_page.dart';
 import 'package:talabat/Screens/Signup.dart';
 import 'package:talabat/Screens/details.dart';
 import 'package:talabat/Screens/home_page.dart';
+import 'package:talabat/Screens/Login.dart';
+import 'package:talabat/Screens/intro_page.dart';
 
 
 
